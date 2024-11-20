@@ -66,6 +66,7 @@ do{
 
         case '6':
             alert('Saindo...')
+            break
 
         default:
             alert('Opção inválida.')
